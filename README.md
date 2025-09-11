@@ -8,16 +8,16 @@
 
 <div align="center">
   <a href="https://evinatershalla.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logoColor=white&labelColor=2C3E50"/>
+    <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2C3E50"/>
   </a>
   <a href="mailto:evina.tershalla.se@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-E74C3C?style=for-the-badge&logoColor=white&labelColor=2C3E50"/>
+    <img src="https://img.shields.io/badge/Email-E74C3C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C3E50"/>
   </a>
   <a href="https://www.linkedin.com/in/evina-tershalla/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=2C3E50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C3E50"/>
   </a>
   <a href="https://github.com/evinaa21">
-    <img src="https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logoColor=white&labelColor=2C3E50"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50"/>
   </a>
 </div>
 
@@ -27,13 +27,13 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 🎯 About Me
+### About Me
 
 <table>
 <tr>
 <td width="60%">
 
-I'm a **Full-Stack Developer** based in **Albania** 🇦🇱, specializing in building robust, scalable applications that solve real-world problems. My passion lies in creating seamless user experiences backed by solid engineering principles.
+I'm a **Full-Stack Developer** based in **Albania**, specializing in building robust, scalable applications that solve real-world problems. My passion lies in creating seamless user experiences backed by solid engineering principles.
 
 ```typescript
 interface Developer {
@@ -48,7 +48,7 @@ interface Developer {
 const evina: Developer = {
   name: "Evina Tershalla",
   role: "Full-Stack Developer",
-  location: "Albania 🇦🇱",
+  location: "Albania",
   codeLanguages: ["TypeScript", "JavaScript", "PHP", "Dart", "Python"],
   currentFocus: "Building CheckMate - Hotel Management System",
   passions: ["Clean Architecture", "User Experience", "Problem Solving"]
@@ -58,16 +58,16 @@ const evina: Developer = {
 </td>
 <td width="40%">
 
-### 🚀 Current Focus
-- 🏨 **CheckMate** - Comprehensive Hotel Management System
-- 📚 **LearnPals** - Interactive Learning Platform
-- 🌐 **Portfolio Enhancement** - Showcasing my journey
-- 📰 **Echoes Of Today** - Modern News Platform
+### Current Focus
+- **CheckMate** - Comprehensive Hotel Management System
+- **LearnPals** - Interactive Learning Platform
+- **Portfolio Enhancement** - Showcasing my journey
+- **Echoes Of Today** - Modern News Platform
 
-### 🌱 Learning Journey
-- 🐍 **Python** - Data Science & Backend
-- 🔷 **Scala** - Functional Programming
-- ☁️ **Cloud Architecture** - AWS & Azure
+### Learning Journey
+- **Python** - Data Science & Backend
+- **Scala** - Functional Programming
+- **Cloud Architecture** - AWS & Azure
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ const evina: Developer = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 🛠️ Technology Arsenal
+### Technology Arsenal
 
 <div align="center">
 
@@ -106,7 +106,7 @@ const evina: Developer = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=evinaa21&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117,1a1a2e,16213e&title_color=00D9FF&icon_color=FF6B9D&text_color=FFFFFF"/>
@@ -125,11 +125,11 @@ const evina: Developer = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 🎯 2025 Professional Roadmap
+### 2025 Professional Roadmap
 
 <div align="center">
 
-| 🚀 Goal | 📈 Progress | 🎯 Impact |
+| Goal | Progress | Impact |
 |---------|-------------|-----------|
 | **Launch CheckMate** | ![90%](https://progress-bar.dev/90?color=00D9FF) | Revolutionary hotel management experience |
 | **Master Python & Scala** | ![75%](https://progress-bar.dev/75?color=FF6B9D) | Expanding technical horizons |
@@ -143,7 +143,7 @@ const evina: Developer = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 🏆 Featured Projects
+### Featured Projects
 
 <div align="center">
 
@@ -151,7 +151,7 @@ const evina: Developer = {
 <tr>
 <td align="center" width="50%">
 
-**🏨 CheckMate**
+**CheckMate**
 <br/>
 *Hotel Management System*
 <br/>
@@ -160,7 +160,7 @@ const evina: Developer = {
 </td>
 <td align="center" width="50%">
 
-**📚 LearnPals** 
+**LearnPals** 
 <br/>
 *Interactive Learning Platform*
 <br/>
@@ -171,7 +171,7 @@ const evina: Developer = {
 <tr>
 <td align="center" width="50%">
 
-**📰 Echoes Of Today**
+**Echoes Of Today**
 <br/>
 *Modern News Platform*
 <br/>
@@ -180,7 +180,7 @@ const evina: Developer = {
 </td>
 <td align="center" width="50%">
 
-**🦷 Dentaly**
+**Dentaly**
 <br/>
 *Dental Clinic Management*
 <br/>
@@ -196,7 +196,7 @@ const evina: Developer = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 💬 Let's Connect & Collaborate
+### Let's Connect & Collaborate
 
 <div align="center">
 
@@ -205,10 +205,10 @@ I'm always excited to connect with fellow developers, designers, and innovators.
 <br/>
 
 <a href="mailto:evina.tershalla.se@gmail.com?subject=Let's%20Collaborate!">
-  <img src="https://img.shields.io/badge/🤝_Let's_Collaborate-FF6B9D?style=for-the-badge&logoColor=white&labelColor=2C3E50"/>
+  <img src="https://img.shields.io/badge/Let's_Collaborate-FF6B9D?style=for-the-badge&logo=handshake&logoColor=white&labelColor=2C3E50"/>
 </a>
 <a href="https://calendly.com/evina" target="_blank">
-  <img src="https://img.shields.io/badge/📅_Schedule_Meeting-00D9FF?style=for-the-badge&logoColor=white&labelColor=2C3E50"/>
+  <img src="https://img.shields.io/badge/Schedule_Meeting-00D9FF?style=for-the-badge&logo=calendly&logoColor=white&labelColor=2C3E50"/>
 </a>
 
 </div>
@@ -218,4 +218,4 @@ I'm always excited to connect with fellow developers, designers, and innovators.
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&width=600&lines=✨+Crafted+with+passion+and+precision+✨;💜+Always+learning%2C+always+growing+💜;🚀+Building+the+future%2C+one+line+at+a+time+🚀" />v
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&width=600&lines=Crafted+with+passion+and+precision;Always+learning%2C+always+growing;Building+the+future%2C+one+line+at+a
