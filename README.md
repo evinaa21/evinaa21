@@ -1,81 +1,138 @@
+<!-- TITLE / HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=4,8,12,16&height=250&section=header&text=Evina%20Tershalla&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
+  
+<h1 style="margin-bottom:4px;">Evina Tershalla</h1>
+  
+<b>Full-Stack Developer · Web & Mobile Engineering · Scalable Systems</b><br/>
+<sub>Albania · Building reliable software with a design mindset</sub>
+
+<hr width="60%"/>
+
+<!-- QUICK LINKS -->
+<a href="https://evinatershalla.netlify.app/">Portfolio</a> • 
+<a href="mailto:evina.tershalla.se@gmail.com">Email</a> • 
+<a href="https://www.linkedin.com/in/evina-tershalla/">LinkedIn</a> • 
+<a href="https://github.com/evinaa21">GitHub</a>
+
 </div>
 
+<!-- SUMMARY BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=97B4E1&background=0D1117&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Architecting+Scalable+Web+Solutions;Passionate+About+Clean+Code+and+User+Experience;From+Albania+to+the+World+Wide+Web" alt="Typing SVG" />
-</div>
-
+  
 <table>
-  <tr>
-    <td width="60%" valign="top">
-      
-### About Me
-I am a Full-Stack Developer specializing in creating efficient, scalable, and user-centric digital experiences. My work is driven by a passion for problem-solving and a commitment to writing clean, maintainable code. I enjoy bridging the gap between complex backend logic and intuitive frontend design, ensuring a seamless and impactful final product.
-
-```javascript
-const evina = {
-  pronouns: "She/Her",
-  role: "Full-Stack Developer",
-  location: "Albania",
-  coreSkills: ["React", "Node.js", "PHP", "Flutter", "SQL"],
-  currentFocus: "Building robust APIs and responsive UIs",
-  learning: ["Advanced Python", "Scala", "Cloud Architecture"],
-};
-```
-<br>
-
-### 📫 Let's Connect
-I'm always open to discussing new projects, sharing knowledge, or exploring collaboration opportunities.
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/evina-tershalla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://evinatershalla.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-208879?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:evina.tershalla.se@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
-      
-    </td>
-    <td width="40%" valign="top">
-      
-### 🛠️ Technology Stack
-A selection of technologies I actively use:
-<div align="center">
-  <p><strong>Frontend</strong></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular&theme=dark" alt="Frontend Icons"/>
-  <p><strong>Backend</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,firebase,python,scala&theme=dark" alt="Backend Icons"/>
-  <p><strong>Mobile & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,vscode,figma,linux&theme=dark" alt="Mobile & Tools Icons"/>
-</div>
-      
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+  
+<strong>Focus</strong><br/>
+API Architecture · UI Engineering · System Design
+  
+</td>
+<td align="center" width="33%">
+  
+<strong>Stack Core</strong><br/>
+React · Node.js · PHP · Flutter · SQL
+  
+</td>
+<td align="center" width="33%">
+  
+<strong>Currently Exploring</strong><br/>
+Python · Scala · Cloud (Scalability & Resilience)
+  
+</td>
+</tr>
 </table>
 
----
-
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evinaa21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evinaa21&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evinaa21&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </div>
 
 ---
 
-### 🌱 2025 Professional Goals
-My objectives for continuous growth and impact this year:
+### 🔧 Tech Stack
 
-| 🎯 Objective                 | 📈 Progress       | 💭 Strategic Importance                               |
-| -------------------------- | ----------------- | ----------------------------------------------------- |
-| **Launch CheckMate Project**   | ▓▓▓▓▓▓▓▓▓░ 90%    | Delivering a full-scale, real-world application.    |
-| **Deepen Python & Scala Skills** | ▓▓▓▓▓▓▓░░░ 75%    | Expanding backend capabilities for data-intensive tasks. |
-| **Achieve UI/UX Certification**| ▓▓▓▓▓▓░░░░ 60%    | Formally bridging the gap between design and development. |
-| **Contribute to Open Source**  | ▓▓▓▓▓░░░░░ 55%    | Collaborating with and giving back to the developer community. |
-| **Master Cloud Architecture**  | ▓▓▓▓░░░░░░ 40%    | Designing and deploying resilient, scalable systems.  |
+| Layer | Tools |
+|-------|-------|
+| Frontend | React · Vue · Angular · TypeScript · CSS Modules |
+| Backend | Node.js (Express) · PHP · REST · Auth · MySQL · Firebase |
+| Mobile | Flutter · Dart |
+| Dev Practices | Clean Architecture · API Design · Component Libraries |
+| Tooling | Git · VS Code · Figma · Linux · CI/CD (basic) |
+
+---
+
+### 🗂 Featured Work
+
+| Project | Area | Notes |
+|---------|------|-------|
+| CheckMate | Hotel Management System | Operational workflows, modular backend, multi-role access |
+| LearnPals | Learning App | Interactive study flow, reusable quiz engine |
+| Portfolio Site | Personal Brand | Performance-focused, responsive layout system |
+| Echoes Of Today | News Platform | Content delivery + structured sections |
+| Dentaly | Clinic Management | Appointment + patient flow foundation |
+
+---
+
+### 📈 Metrics & Activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=16,12,8,4&height=120&section=footer"/>
+
+<a href="#"><img height="150" src="https://github-readme-stats.vercel.app/api?username=evinaa21&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Stats"></a>
+<a href="#"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evinaa21&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Languages"></a><br/>
+<a href="#"><img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=evinaa21&theme=tokyonight&hide_border=true" alt="Streak"></a>
+
 </div>
+
+---
+
+### 🧭 2025 Targets
+
+| Goal | Progress | Description |
+|------|----------|-------------|
+| Launch CheckMate | █████████░ 90% | End-to-end release & deployment |
+| Advance Python & Scala | ███████░░░ 75% | Broader backend + data workflows |
+| UI/UX Certification | ██████░░░░ 60% | Formalizing design approach |
+| Open Source Contributions | █████░░░░░ 55% | Code + issue collaboration |
+| Cloud Architecture | ████░░░░░░ 40% | Scaling + fault tolerance patterns |
+
+---
+
+### 💼 Approach
+
+```text
+Principles:
+• Build for clarity first
+• Abstract only when justified
+• Optimize after correctness
+• Consistent naming > clever hacks
+• Interfaces should guide usage
+```
+
+```mermaid
+flowchart LR
+Idea --> Spec --> Prototype --> Iterate --> Stable --> Scale
+```
+
+---
+
+### 🧪 Tooling Preferences
+
+```yaml
+editor: VS Code
+commit_style: conventional
+testing: incremental + behavior-focused
+branching: feature-first
+design_hand-off: components + tokens
+```
+
+---
+
+### 📬 Contact
+
+If you have a project, collaboration idea, or engineering challenge worth discussing:
+
+- Portfolio: https://evinatershalla.netlify.app  
+- Email: evina.tershalla.se@gmail.com  
+- LinkedIn: /in/evina-tershalla  
+
+---
+
+<div align="center">
+<sub>Consistent. Focused.
