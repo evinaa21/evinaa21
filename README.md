@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4A90E2&text=Evina%20Tershalla&height=150&fontSize=60&desc=Full-Stack%20Developer%20%7C%20System%20Architect%20%7C%20Craftsperson&descAlignY=75&descAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4A90E2&text=Evina%20Tershalla&height=150&fontSize=60&desc=Software%20Developer%20%7C%20System%20Architect%20%7C%20Craftsperson&descAlignY=75&descAlign=50&animation=fadeIn" />
 </div>
 
 <div align="center">
