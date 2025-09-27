@@ -128,5 +128,6 @@ I love collaborating on **innovative projects** and exchanging ideas with develo
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/evinaa21/evinaa21/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="![snake animation](https://github.com/evinaa21/evinaa21/blob/output/snake.svg)
+" alt="snake animation"/>
 </div>
