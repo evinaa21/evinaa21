@@ -15,6 +15,12 @@
 
 ---
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=evinaa21&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
+
+---
+
 ## 👩‍💻 About Me
 
 I’m **Evina Tershalla**, a **Full-Stack Developer** based in **Albania**.  
@@ -81,6 +87,22 @@ passions: ["Clean Architecture", "User Experience", "Problem Solving"];
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=evinaa21&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
+</p>
+
+---
+
+## ✨ Dev Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes"/>
+</p>
+
+---
+
+## 🗺️ 2025 Roadmap
+
 | Goal | Progress | Impact |
 |------|-----------|---------|
 | **Launch CheckMate** | ![90%](https://img.shields.io/badge/Progress-90%25-00D9FF?style=for-the-badge) | Redefining hotel management |
@@ -89,6 +111,7 @@ passions: ["Clean Architecture", "User Experience", "Problem Solving"];
 | **Open Source Contributions** | ![55%](https://img.shields.io/badge/Progress-55%25-9C27B0?style=for-the-badge) | Community-driven impact |
 | **Cloud Mastery** | ![40%](https://img.shields.io/badge/Progress-40%25-4CAF50?style=for-the-badge) | Architecting scale |
 
+---
 
 ## 🌟 Featured Projects
 
@@ -102,6 +125,13 @@ passions: ["Clean Architecture", "User Experience", "Problem Solving"];
 | **Dentaly** | Clinic Management App | React • Node.js • Appointment System |
 
 </div>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evinaa21&bg_color=0D1117&color=00D9FF&line=FF6B9D&point=FFB74D&area=true&hide_border=true" />
+</p>
 
 ---
 
