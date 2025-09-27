@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&customColorList=2,11,20&text=⚡%20Evina%20Tershalla%20⚡&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4A90E2&text=Evina%20Tershalla&height=150&fontSize=60&desc=Full-Stack%20Developer%20%7C%20System%20Architect%20%7C%20Craftsperson&descAlignY=75&descAlign=50&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&background=00000000&center=true&vCenter=true&width=800&lines=👩‍💻+Full-Stack+Developer;🛠+System+Architect;🎨+Code+Craftsperson;🚀+Turning+ideas+into+impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=800&lines=Building+scalable+apps+with+precision;Transforming+complexity+into+elegance;Passionate+about+UX+%26+Architecture" />
 </div>
+
 
 
 <div align="center">
@@ -24,7 +25,7 @@
 
 ## 👩‍💻 About Me
 
-I’m **Evina Tershalla**, a **Full-Stack Developer** based in **Albania**.  
+I’m **Evina Tershalla**, a **Software Engineer** based in **Albania**.  
 I specialize in designing **robust, scalable systems** and delivering **seamless user experiences**. I believe that clean code and solid architecture lay the foundation for innovation.  
 
 interface Developer {
