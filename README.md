@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Evina%20Tershalla&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20System%20Architect%20%7C%20Code%20Craftsperson&descSize=18&descAlignY=52"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&customColorList=2,11,20&text=⚡%20Evina%20Tershalla%20⚡&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=twinkling"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=4A90E2&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+scalable+apps+with+precision;Turning+complexity+into+elegant+solutions;Passionate+about+architecture+%26+user+experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&background=00000000&center=true&vCenter=true&width=800&lines=👩‍💻+Full-Stack+Developer;🛠+System+Architect;🎨+Code+Craftsperson;🚀+Turning+ideas+into+impact" />
 </div>
+
 
 <div align="center">
   <a href="https://evinatershalla.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2C3E50"/></a>
