@@ -81,17 +81,14 @@ passions: ["Clean Architecture", "User Experience", "Problem Solving"];
 
 ---
 
-## 🗺️ 2025 Roadmap
-
 | Goal | Progress | Impact |
 |------|-----------|---------|
-| **Launch CheckMate** | ![90%](https://progress-bar.dev/90?color=00D9FF) | Redefining hotel management |
-| **Master Python & Scala** | ![75%](https://progress-bar.dev/75?color=FF6B9D) | Expanding horizons |
-| **UI/UX Certification** | ![60%](https://progress-bar.dev/60?color=FFB74D) | Design meets dev |
-| **Open Source Contributions** | ![55%](https://progress-bar.dev/55?color=9C27B0) | Community-driven impact |
-| **Cloud Mastery** | ![40%](https://progress-bar.dev/40?color=4CAF50) | Architecting scale |
+| **Launch CheckMate** | ![90%](https://img.shields.io/badge/Progress-90%25-00D9FF?style=for-the-badge) | Redefining hotel management |
+| **Master Python & Scala** | ![75%](https://img.shields.io/badge/Progress-75%25-FF6B9D?style=for-the-badge) | Expanding horizons |
+| **UI/UX Certification** | ![60%](https://img.shields.io/badge/Progress-60%25-FFB74D?style=for-the-badge) | Design meets dev |
+| **Open Source Contributions** | ![55%](https://img.shields.io/badge/Progress-55%25-9C27B0?style=for-the-badge) | Community-driven impact |
+| **Cloud Mastery** | ![40%](https://img.shields.io/badge/Progress-40%25-4CAF50?style=for-the-badge) | Architecting scale |
 
----
 
 ## 🌟 Featured Projects
 
@@ -126,8 +123,6 @@ I love collaborating on **innovative projects** and exchanging ideas with develo
 ---
 
 ## 🐍 Contribution Snake
-
 <div align="center">
-  <img src="![snake animation](https://github.com/evinaa21/evinaa21/blob/output/snake.svg)
-" alt="snake animation"/>
+  <img src="https://github.com/evinaa21/evinaa21/blob/output/snake.svg" alt="snake animation" />
 </div>
