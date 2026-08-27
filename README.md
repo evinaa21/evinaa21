@@ -1,4 +1,4 @@
-# Hi, I'm Evina 👋
+# Hi, I'm Eve 👋
 
 Software Developer based in Albania.
 
