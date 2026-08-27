@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="pixel castle" />
+<img src="banner.svg" width="100%" alt="pixel castle" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=800&color=F5C518&center=true&vCenter=true&width=620&lines=%E2%99%A1+EVINA+TERSHALLA+%E2%99%A1;SOFTWARE+DEVELOPER;WELCOME+TO+MY+CASTLE" />
 
-<img src="assets/sparkles.svg" width="100%" alt="" />
+<img src="sparkles.svg" width="100%" alt="" />
 
 🏰 ✨ 👑 ✨ 🏰
 
@@ -23,7 +23,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=evinaa21&label=✧%20VISITORS%20✧&color=FF6FA5&style=flat-square" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -46,7 +46,7 @@ const evina = {
 };
 ```
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## ⚔️ ⋆｡˚ the arsenal ˚｡⋆
 
@@ -68,7 +68,7 @@ const evina = {
 
 <img src="https://skillicons.dev/icons?i=git,vscode,linux,docker,aws&theme=dark" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -95,7 +95,7 @@ const evina = {
 ☁️  cloud architecture       ▰▰▰▰▱▱▱▱▱▱  40%
 ```
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 📜 ⋆｡˚ the royal scrolls ˚｡⋆
 
@@ -120,7 +120,7 @@ const evina = {
 
 <img src="https://github.com/evinaa21/evinaa21/blob/output/snake.svg" alt="contribution snake" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ### ✨ ⋆｡˚ enter the court ˚｡⋆ ✨
 
